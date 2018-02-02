@@ -1,0 +1,30 @@
+body{
+	background-image: url(http://gifimage.net/wp-content/uploads/2017/11/indian-flag-gif-free-download-8.gif);
+	background-size: cover;
+}
+h1{
+	color: blue;
+	text-align: center;
+	border: 7px solid rgb(150,20,0);
+	cursor: pointer;
+	font-size: 50px;
+}
+.abc{
+	float: right;
+	line-height:50px;
+}
+.les{
+	
+	
+	line-height: 50px;
+	font-weight:bold;
+	font-size: 30px;
+}
+p{
+	color :red;
+}
+footer{
+	text-align: center;
+	color: red;
+	font-weight:bold;
+}
